@@ -1,0 +1,4 @@
+host=208.64.229.91
+database=inetloadnew
+user=sumon
+password=tahmid
